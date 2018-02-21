@@ -2,4 +2,8 @@ Author: Mason J. Markle
 Partner:<Han Yin>
 Assignment: CSCI 3308 - Lab 5
 
+<<<<<<< HEAD
 This might cause a merge conflict
+=======
+conflict
+>>>>>>> ff50e69e4b1d183e6a3d160c6184db5686192474
